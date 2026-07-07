@@ -1,13 +1,11 @@
 title: SaboAU Docs
-description: Generated from an Obsidian vault by obsidocs.py
+description: Documentation for the mods by Sabotaged Among Us Modding
 theme: just-the-docs
 baseurl: "/"
 search_enabled: true
 heading_anchors: true
 color_scheme: dark
 
-# Apply the just-the-docs "default" layout to every page/post that doesn't
-# specify its own layout in front matter (index.md uses "home").
 defaults:
   - scope:
       path: ""
