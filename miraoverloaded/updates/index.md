@@ -1,11 +1,10 @@
 ---
 title: Updates
 has_children: true
-permalink: /miraoverloaded/updates/
 parent: MiraOverloaded
+has_toc: false
+permalink: /miraoverloaded/updates/
 ---
 
 # Updates
-
-{: .fs-6 .fw-300 }
-Pages in this section.
+[Version 1.0.0]({{ '/miraoverloaded/updates/version-100/' | relative_url }})

@@ -6,6 +6,7 @@ permalink: /miraoverloaded/
 
 # Welcome to the **MiraOverloaded** wiki!
 <small>Brought to you by Sabotaged Among Us Modding and the Sabotaged Among Us Modding team and contributors</small>
+<small>We have a discord! Go to <a href="https://discord.saboau.org">discord.saboau.org</a> to be redirected to it!</small>
 
 # What is **MiraOverloaded**?
 **MiraOverloaded** is a Town of Us: Mira extension mod, created because the Among Us modscape has a problem; People are always craving more content than is available in base Mira.
