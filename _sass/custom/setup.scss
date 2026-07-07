@@ -1,0 +1,22 @@
+$body-font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif,
+    "Segoe UI Emoji";
+
+$mono-font-family:
+    "Consolas",
+    "SFMono-Regular",
+    menlo,
+    monospace;
+
+h4, h5, h6, .text-delta, .text-epsilon, .text-zeta {
+    text-transform: none;
+    letter-spacing: normal;
+    font-weight: 500;
+}

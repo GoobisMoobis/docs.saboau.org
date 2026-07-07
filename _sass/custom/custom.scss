@@ -1,0 +1,49 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.text-alpha,
+.text-beta,
+.text-gamma,
+.text-delta,
+.text-epsilon,
+.text-zeta {
+  font-family: $body-font-family;
+}
+
+h4,
+h5,
+h6,
+.text-delta,
+.text-epsilon,
+.text-zeta {
+  text-transform: none;
+  letter-spacing: normal;
+  font-weight: 500;
+}
+
+p.note,
+blockquote.note {
+  border-color: rgba($purple-100, 0.45);
+  border-left-color: $purple-100;
+
+  &::before {
+    color: $purple-100;
+  }
+
+  > .note-title {
+    color: $purple-100;
+  }
+}
+
+p.note-title,
+blockquote.note-title {
+  border-color: rgba($purple-100, 0.45);
+  border-left-color: $purple-100;
+
+  > p:first-child {
+    color: $purple-100;
+  }
+}
